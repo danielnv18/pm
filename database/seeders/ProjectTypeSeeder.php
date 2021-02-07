@@ -2,7 +2,6 @@
 
 namespace Database\Seeders;
 
-use App\Models\ProjectType;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Carbon;
 
